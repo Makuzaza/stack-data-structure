@@ -1,8 +1,9 @@
-# React + Vite
+Stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Specs/Requirements:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Use ReactJS to create your app
+- Keep it short and simple, e.g. one button that shows pushing items to stack and another button that shows poping items out of stack
+- Feel free to use any react component library or hooks e.g. useState, useMemo
+- Use whatever css, styling you learned in other courses
+- You may use CSS framework if needed e.g. React Bootstrap / Material UI or whatever for styling GUI
