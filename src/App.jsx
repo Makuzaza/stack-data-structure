@@ -32,7 +32,7 @@ function App() {
           </div>
         ))}
       </div>
-      <div className="controls">
+      <div>
         <input
           type="text"
           value={inputValue}

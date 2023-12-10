@@ -55,14 +55,20 @@ button:hover {
   padding: 20px;
 }
 
-#textInput {
+.queue {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  color: coral;
+  text-transform: uppercase;
+  font-size: larger;
+}
+
+input {
   width: 200px;
   padding: 10px;
   border-radius: 5px;
   border-color: aliceblue;
 }
 
-label {
-  font-size: 20px;
-  color: coral;
-}
